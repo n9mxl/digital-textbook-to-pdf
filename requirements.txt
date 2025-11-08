@@ -1,4 +1,2 @@
 streamlit
-imgkit
-Pillow
-fpdf
+pdfkit
