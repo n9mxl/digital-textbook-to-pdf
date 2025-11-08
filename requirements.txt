@@ -1,0 +1,4 @@
+streamlit
+imgkit
+Pillow
+fpdf
